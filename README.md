@@ -70,17 +70,13 @@ A production-ready appointment booking platform built using Spring Boot and Post
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijayaboopathiE&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VijayaboopathiE&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VijayaboopathiE&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VijayaboopathiE&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=VijayaboopathiE&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayaboopathiE&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🎯 Current Goals
